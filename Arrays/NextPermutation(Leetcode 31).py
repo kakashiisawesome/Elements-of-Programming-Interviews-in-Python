@@ -46,6 +46,8 @@ def next_permutation(chars):
     return True
 
 
+
+
 # Function to find all lexicographically next permutations of a
 # sorted in ascending order
 def permutations(str):
